@@ -1,0 +1,6 @@
+name: ChavaNotify
+version: ${build.number}
+description: Notifications on join
+author: alta189
+
+main: com.alta189.chavanotify.ChavaNotify
