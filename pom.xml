@@ -10,7 +10,7 @@
 		<dependency>
 			<groupId>com.alta189</groupId>
 			<artifactId>chavabot</artifactId>
-			<version>SNAPSHOT</version>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 </project>
